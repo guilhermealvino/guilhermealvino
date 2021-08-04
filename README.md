@@ -1,8 +1,8 @@
 ### Hi 👋. Eu sou o Guilherme Alvino
 
 - I ❤ Tecnology
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on SRE
+- 🌱 I’m currently learning Python and .Net
 - 📩 guilhermealvi9@gmail.com
 <!--
 **guilhermealvino/guilhermealvino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
