@@ -1,4 +1,4 @@
-### Hi 👋. Eu sou o Guilherme Alvino
+### Hi 👋. Eu sou Guilherme Alvino
 
 - I ❤ Tecnology
 - 🔭 I’m currently working on SRE
