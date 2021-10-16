@@ -1,8 +1,8 @@
 ### Hi 👋. Eu sou Guilherme Alvino
 
 - I ❤ Tecnology
-- 🔭 I’m currently working on SRE
-- 🌱 I’m currently learning Python and Java
+- 🔭 I’m currently working as a Software engineer
+- 🌱 I'm always studying languages. I really like Python, Java, Kotlin
 - 📩 guilhermealvi9@gmail.com
  <div>
   <a href="https://github.com/guilhermealvino">
