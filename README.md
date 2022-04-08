@@ -2,7 +2,7 @@
 
 - I ❤ Tecnology
 - 🔭 I’m currently working as a Software engineer
-- 🌱 I'm always studying languages. I really like Python, Java, Kotlin
+- 🌱 I'm always studying languages. I really like Python and Java, but I do not fail to redo some projects in other languages for learning.
 - 📩 guilhermealvi9@gmail.com
  <div>
   <a href="https://github.com/guilhermealvino">
